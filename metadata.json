@@ -1,0 +1,5 @@
+{
+  "name": "Mahjong Score Tracker",
+  "description": "A web application to track scores, riichi sticks, and rounds for Japanese mahjong (riichi mahjong). It supports both 'set' and 'free' play modes, calculates final scores, and keeps a history of games played.",
+  "requestFramePermissions": []
+}
